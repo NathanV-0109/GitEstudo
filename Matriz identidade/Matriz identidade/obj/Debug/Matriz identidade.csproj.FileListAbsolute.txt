@@ -1,0 +1,5 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\Matriz identidade\Matriz identidade\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\Matriz identidade\Matriz identidade\bin\Debug\Matriz identidade.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\Matriz identidade\Matriz identidade\bin\Debug\Matriz identidade.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\Matriz identidade\Matriz identidade\obj\Debug\Matriz identidade.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\Matriz identidade\Matriz identidade\obj\Debug\Matriz identidade.pdb

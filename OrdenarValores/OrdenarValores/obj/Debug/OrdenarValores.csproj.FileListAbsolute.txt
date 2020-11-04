@@ -1,0 +1,5 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\OrdenarValores\OrdenarValores\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\OrdenarValores\OrdenarValores\bin\Debug\OrdenarValores.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\OrdenarValores\OrdenarValores\bin\Debug\OrdenarValores.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\OrdenarValores\OrdenarValores\obj\Debug\OrdenarValores.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\OrdenarValores\OrdenarValores\obj\Debug\OrdenarValores.pdb

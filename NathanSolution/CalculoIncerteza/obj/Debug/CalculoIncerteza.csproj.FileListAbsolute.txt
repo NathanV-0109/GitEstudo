@@ -1,0 +1,11 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\NathanSolution\CalculoIncerteza\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\NathanSolution\CalculoIncerteza\obj\Debug\CalculoIncerteza.Properties.Resources.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\NathanSolution\CalculoIncerteza\obj\Debug\CalculoIncerteza.csproj.GenerateResource.Cache
+C:\Users\nathan.vilela\Desktop\Ex C#\NathanSolution\CalculoIncerteza\bin\Debug\CalculoIncerteza.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\NathanSolution\CalculoIncerteza\bin\Debug\CalculoIncerteza.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\NathanSolution\CalculoIncerteza\obj\Debug\CalculoIncerteza.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\NathanSolution\CalculoIncerteza\obj\Debug\CalculoIncerteza.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\NathanSolution\CalculoIncerteza\obj\Debug\CalculoIncerteza.Form1.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\NathanSolution\CalculoIncerteza\obj\Debug\CalculoIncerteza.Mediana.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\NathanSolution\CalculoIncerteza\obj\Debug\CalculoIncerteza.Moda.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\NathanSolution\CalculoIncerteza\obj\Debug\CalculoIncerteza.VF.resources

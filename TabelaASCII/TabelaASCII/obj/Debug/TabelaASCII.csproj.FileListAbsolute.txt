@@ -1,0 +1,5 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\TabelaASCII\TabelaASCII\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\TabelaASCII\TabelaASCII\bin\Debug\TabelaASCII.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\TabelaASCII\TabelaASCII\bin\Debug\TabelaASCII.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\TabelaASCII\TabelaASCII\obj\Debug\TabelaASCII.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\TabelaASCII\TabelaASCII\obj\Debug\TabelaASCII.pdb

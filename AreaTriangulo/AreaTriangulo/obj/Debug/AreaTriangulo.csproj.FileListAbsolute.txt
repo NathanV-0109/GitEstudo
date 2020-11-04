@@ -1,0 +1,5 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\AreaTriangulo\AreaTriangulo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.pdb

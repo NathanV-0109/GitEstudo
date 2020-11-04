@@ -1,0 +1,8 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\Rendimentos\Rendimentos\bin\Debug\Rendimentos.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\Rendimentos\Rendimentos\bin\Debug\Rendimentos.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\Rendimentos\Rendimentos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\Rendimentos\Rendimentos\obj\Debug\Rendimentos.Form1.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\Rendimentos\Rendimentos\obj\Debug\Rendimentos.Properties.Resources.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\Rendimentos\Rendimentos\obj\Debug\Rendimentos.csproj.GenerateResource.Cache
+C:\Users\nathan.vilela\Desktop\Ex C#\Rendimentos\Rendimentos\obj\Debug\Rendimentos.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\Rendimentos\Rendimentos\obj\Debug\Rendimentos.pdb

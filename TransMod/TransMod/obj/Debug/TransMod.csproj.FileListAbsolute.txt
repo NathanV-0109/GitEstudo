@@ -1,0 +1,13 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\TransMod\TransMod\bin\Debug\TransMod.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\TransMod\TransMod\bin\Debug\TransMod.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\TransMod\TransMod\bin\Debug\FtdAdapter.dll
+C:\Users\nathan.vilela\Desktop\Ex C#\TransMod\TransMod\bin\Debug\log4net.dll
+C:\Users\nathan.vilela\Desktop\Ex C#\TransMod\TransMod\bin\Debug\Modbus.dll
+C:\Users\nathan.vilela\Desktop\Ex C#\TransMod\TransMod\bin\Debug\Unme.Common.dll
+C:\Users\nathan.vilela\Desktop\Ex C#\TransMod\TransMod\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\TransMod\TransMod\obj\Debug\TransMod.Form1.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\TransMod\TransMod\obj\Debug\TransMod.Properties.Resources.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\TransMod\TransMod\obj\Debug\TransMod.csproj.GenerateResource.Cache
+C:\Users\nathan.vilela\Desktop\Ex C#\TransMod\TransMod\obj\Debug\TransMod.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\TransMod\TransMod\obj\Debug\TransMod.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\TransMod\TransMod\obj\Debug\TransMod.Form2.resources

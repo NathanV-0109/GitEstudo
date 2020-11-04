@@ -1,0 +1,5 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\Conversao\Conversao\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\Conversao\Conversao\bin\Debug\Conversao.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\Conversao\Conversao\bin\Debug\Conversao.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\Conversao\Conversao\obj\Debug\Conversao.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\Conversao\Conversao\obj\Debug\Conversao.pdb

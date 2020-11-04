@@ -1,0 +1,7 @@
+C:\Users\nathan.vilela\Documents\Visual Studio 2008\Projects\MediaIdades\MediaIdades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Documents\Visual Studio 2008\Projects\MediaIdades\MediaIdades\bin\Debug\MediaIdades.exe
+C:\Users\nathan.vilela\Documents\Visual Studio 2008\Projects\MediaIdades\MediaIdades\bin\Debug\MediaIdades.pdb
+C:\Users\nathan.vilela\Documents\Visual Studio 2008\Projects\MediaIdades\MediaIdades\obj\Debug\MediaIdades.exe
+C:\Users\nathan.vilela\Documents\Visual Studio 2008\Projects\MediaIdades\MediaIdades\obj\Debug\MediaIdades.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\MediaIdades\MediaIdades\obj\Debug\MediaIdades.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\MediaIdades\MediaIdades\obj\Debug\MediaIdades.pdb

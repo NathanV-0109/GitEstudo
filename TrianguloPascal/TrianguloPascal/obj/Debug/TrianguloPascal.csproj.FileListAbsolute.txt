@@ -1,0 +1,8 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\TrianguloPascal\TrianguloPascal\bin\Debug\TrianguloPascal.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\TrianguloPascal\TrianguloPascal\bin\Debug\TrianguloPascal.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\TrianguloPascal\TrianguloPascal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\TrianguloPascal\TrianguloPascal\obj\Debug\TrianguloPascal.Form1.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\TrianguloPascal\TrianguloPascal\obj\Debug\TrianguloPascal.Properties.Resources.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\TrianguloPascal\TrianguloPascal\obj\Debug\TrianguloPascal.csproj.GenerateResource.Cache
+C:\Users\nathan.vilela\Desktop\Ex C#\TrianguloPascal\TrianguloPascal\obj\Debug\TrianguloPascal.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\TrianguloPascal\TrianguloPascal\obj\Debug\TrianguloPascal.pdb

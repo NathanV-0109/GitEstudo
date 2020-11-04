@@ -1,0 +1,10 @@
+joão | 200,00
+maria | 300,00
+eduardo | 400,00
+luciano | 500,00
+pedro | 600,00
+renan| 700,00
+paulo | 800,00
+nathan | 900,00
+guilherme | 1000,00
+lucas | 1100,00

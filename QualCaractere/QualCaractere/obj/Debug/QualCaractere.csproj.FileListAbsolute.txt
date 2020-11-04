@@ -1,0 +1,8 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\QualCaractere\QualCaractere\bin\Debug\QualCaractere.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\QualCaractere\QualCaractere\bin\Debug\QualCaractere.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\QualCaractere\QualCaractere\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\QualCaractere\QualCaractere\obj\Debug\QualCaractere.Form1.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\QualCaractere\QualCaractere\obj\Debug\QualCaractere.Properties.Resources.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\QualCaractere\QualCaractere\obj\Debug\QualCaractere.csproj.GenerateResource.Cache
+C:\Users\nathan.vilela\Desktop\Ex C#\QualCaractere\QualCaractere\obj\Debug\QualCaractere.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\QualCaractere\QualCaractere\obj\Debug\QualCaractere.pdb

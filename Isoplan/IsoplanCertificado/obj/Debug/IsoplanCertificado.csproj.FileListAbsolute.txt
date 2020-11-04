@@ -1,0 +1,8 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\Isoplan\IsoplanCertificado\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\Isoplan\IsoplanCertificado\obj\Debug\IsoplanCertificado.Form1.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\Isoplan\IsoplanCertificado\obj\Debug\IsoplanCertificado.Properties.Resources.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\Isoplan\IsoplanCertificado\obj\Debug\IsoplanCertificado.csproj.GenerateResource.Cache
+C:\Users\nathan.vilela\Desktop\Ex C#\Isoplan\IsoplanCertificado\bin\Debug\IsoplanCertificado.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\Isoplan\IsoplanCertificado\bin\Debug\IsoplanCertificado.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\Isoplan\IsoplanCertificado\obj\Debug\IsoplanCertificado.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\Isoplan\IsoplanCertificado\obj\Debug\IsoplanCertificado.pdb

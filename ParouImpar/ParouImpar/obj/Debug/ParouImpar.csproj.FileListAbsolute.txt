@@ -1,0 +1,5 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\ParouImpar\ParouImpar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\ParouImpar\ParouImpar\bin\Debug\ParouImpar.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\ParouImpar\ParouImpar\bin\Debug\ParouImpar.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\ParouImpar\ParouImpar\obj\Debug\ParouImpar.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\ParouImpar\ParouImpar\obj\Debug\ParouImpar.pdb

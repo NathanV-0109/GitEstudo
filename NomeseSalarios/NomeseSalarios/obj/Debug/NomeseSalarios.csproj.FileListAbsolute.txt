@@ -1,0 +1,5 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\NomeseSalarios\NomeseSalarios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\NomeseSalarios\NomeseSalarios\bin\Debug\NomeseSalarios.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\NomeseSalarios\NomeseSalarios\bin\Debug\NomeseSalarios.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\NomeseSalarios\NomeseSalarios\obj\Debug\NomeseSalarios.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\NomeseSalarios\NomeseSalarios\obj\Debug\NomeseSalarios.pdb

@@ -1,0 +1,10 @@
+joão |300
+maria |420
+eduardo |560
+luciano |700
+pedro |840
+renan|910
+paulo |1040
+nathan |1170
+guilherme |1300
+lucas |1430
