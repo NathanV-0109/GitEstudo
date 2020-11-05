@@ -1,0 +1,5 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\CriptografiaTeste\CriptografiaTeste\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\CriptografiaTeste\CriptografiaTeste\bin\Debug\CriptografiaTeste.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\CriptografiaTeste\CriptografiaTeste\bin\Debug\CriptografiaTeste.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\CriptografiaTeste\CriptografiaTeste\obj\Debug\CriptografiaTeste.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\CriptografiaTeste\CriptografiaTeste\obj\Debug\CriptografiaTeste.pdb
