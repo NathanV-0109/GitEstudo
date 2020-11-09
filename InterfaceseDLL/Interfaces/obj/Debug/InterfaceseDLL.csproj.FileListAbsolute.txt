@@ -1,0 +1,4 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\InterfaceseDLL\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\InterfaceseDLL\Interfaces\obj\Debug\Interfaces.pdb

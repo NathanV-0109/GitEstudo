@@ -1,0 +1,9 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\Interfaces\Interfaces\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\Interfaces\Interfaces\obj\Debug\Interfaces.Form1.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\Interfaces\Interfaces\obj\Debug\Interfaces.Properties.Resources.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.GenerateResource.Cache
+C:\Users\nathan.vilela\Desktop\Ex C#\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\Interfaces\Interfaces\bin\Debug\MinhaDLL.pdb

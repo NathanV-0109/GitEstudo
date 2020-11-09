@@ -1,0 +1,8 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\XML\XML\bin\Debug\XML.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\XML\XML\bin\Debug\XML.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\XML\XML\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\XML\XML\obj\Debug\XML.Form1.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\XML\XML\obj\Debug\XML.Properties.Resources.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\XML\XML\obj\Debug\XML.csproj.GenerateResource.Cache
+C:\Users\nathan.vilela\Desktop\Ex C#\XML\XML\obj\Debug\XML.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\XML\XML\obj\Debug\XML.pdb

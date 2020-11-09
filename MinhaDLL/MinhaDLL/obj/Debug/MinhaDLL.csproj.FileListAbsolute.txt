@@ -1,0 +1,5 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\MinhaDLL\MinhaDLL\bin\Debug\MinhaDLL.dll
+C:\Users\nathan.vilela\Desktop\Ex C#\MinhaDLL\MinhaDLL\bin\Debug\MinhaDLL.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\MinhaDLL\MinhaDLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\MinhaDLL\MinhaDLL\obj\Debug\MinhaDLL.dll
+C:\Users\nathan.vilela\Desktop\Ex C#\MinhaDLL\MinhaDLL\obj\Debug\MinhaDLL.pdb

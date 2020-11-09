@@ -1,0 +1,8 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\MultiThread2\MultiThread2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\MultiThread2\MultiThread2\obj\Debug\MultiThread2.Form1.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\MultiThread2\MultiThread2\obj\Debug\MultiThread2.Properties.Resources.resources
+C:\Users\nathan.vilela\Desktop\Ex C#\MultiThread2\MultiThread2\obj\Debug\MultiThread2.csproj.GenerateResource.Cache
+C:\Users\nathan.vilela\Desktop\Ex C#\MultiThread2\MultiThread2\bin\Debug\MultiThread2.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\MultiThread2\MultiThread2\bin\Debug\MultiThread2.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\MultiThread2\MultiThread2\obj\Debug\MultiThread2.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\MultiThread2\MultiThread2\obj\Debug\MultiThread2.pdb

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<pessoa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Idade>50</Idade>
+  <Id>1</Id>
+  <PrimeiroNome>JOÃO</PrimeiroNome>
+  <UltimoNome>da Silva</UltimoNome>
+  <Email>Joao.silva@expt.com</Email>
+</pessoa>

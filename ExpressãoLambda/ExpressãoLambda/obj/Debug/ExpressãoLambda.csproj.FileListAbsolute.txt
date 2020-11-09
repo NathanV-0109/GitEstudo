@@ -1,0 +1,5 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\ExpressãoLambda\ExpressãoLambda\bin\Debug\ExpressãoLambda.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\ExpressãoLambda\ExpressãoLambda\bin\Debug\ExpressãoLambda.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\ExpressãoLambda\ExpressãoLambda\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\ExpressãoLambda\ExpressãoLambda\obj\Debug\ExpressãoLambda.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\ExpressãoLambda\ExpressãoLambda\obj\Debug\ExpressãoLambda.pdb

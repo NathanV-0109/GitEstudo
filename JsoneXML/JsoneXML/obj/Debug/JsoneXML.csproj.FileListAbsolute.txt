@@ -1,0 +1,5 @@
+C:\Users\nathan.vilela\Desktop\Ex C#\JsoneXML\JsoneXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nathan.vilela\Desktop\Ex C#\JsoneXML\JsoneXML\bin\Debug\JsoneXML.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\JsoneXML\JsoneXML\bin\Debug\JsoneXML.pdb
+C:\Users\nathan.vilela\Desktop\Ex C#\JsoneXML\JsoneXML\obj\Debug\JsoneXML.exe
+C:\Users\nathan.vilela\Desktop\Ex C#\JsoneXML\JsoneXML\obj\Debug\JsoneXML.pdb

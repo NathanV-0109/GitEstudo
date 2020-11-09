@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfPessoa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pessoa>
+    <Nome>1</Nome>
+    <Idade>1</Idade>
+    <Email>1</Email>
+  </Pessoa>
+  <Pessoa>
+    <Nome>2</Nome>
+    <Idade>2</Idade>
+    <Email>2</Email>
+  </Pessoa>
+  <Pessoa>
+    <Nome>2</Nome>
+    <Idade>2</Idade>
+    <Email>2</Email>
+  </Pessoa>
+</ArrayOfPessoa>
